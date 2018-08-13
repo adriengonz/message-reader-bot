@@ -1,0 +1,14 @@
+{
+  "name": "message_reader",
+  "version": "1.0.0",
+  "description": "un bot pour lire les messages des serveurs sur lequel il est en \"presence\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "m-help"
+  },
+  "author": "Adrien Gonz (adridu84 / Adri-djay g)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.1"
+  }
+}
