@@ -94,4 +94,4 @@ if(msg.content === 'mhelp'){
 });
 
 
-c.login(process.env.token)
+c.login(process.env.TOKEN)
