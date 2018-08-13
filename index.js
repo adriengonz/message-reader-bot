@@ -94,4 +94,4 @@ if(msg.content === 'mhelp'){
 });
 
 
-c.login('NDc4NTIzNTYyMTUyNDI3NTUx.DlL-WQ.1kV1-029hWtoYNngucMj7hSNYG8')
+c.login(process.env.TOKEN)
